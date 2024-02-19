@@ -1,4 +1,4 @@
-# Xamarin Apps for practice and learn.
+# Xamarin Apps to practice and learn.
  
-In progress apps from Xamarin courses, to understand their structures.
+In progress, apps from Xamarin courses, to understand their structures.
 
