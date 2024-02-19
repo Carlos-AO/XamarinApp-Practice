@@ -5,7 +5,6 @@ C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\bin\Deb
 C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.csproj.AssemblyReference.cache
 C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.AssemblyInfoInputs.cache
 C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.AssemblyInfo.cs
 C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.csproj.CoreCompileInputs.cache
@@ -14,3 +13,4 @@ C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Deb
 C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.dll
 C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\refint\BlankApp1.dll
 C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.pdb
+C:\Users\calfa\Documents\GitHub\XamarinApp\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\ViewModel\MainPage.xaml.g.cs
