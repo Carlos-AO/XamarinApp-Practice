@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwrCc+hnVJXq0FnxGOn/8PHFcH9LLSzH6Pb659W7MgPA+9nKqM7Q9WUF+UXluoQtwT7cbrmB1GTdV63+2xgDOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\calfa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\calfa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\calfa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\calfa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\calfa\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
