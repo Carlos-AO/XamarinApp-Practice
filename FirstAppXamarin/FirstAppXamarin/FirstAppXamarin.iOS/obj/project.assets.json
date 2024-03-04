@@ -1253,11 +1253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.iOS\\FirstAppXamarin.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.iOS\\FirstAppXamarin.iOS.csproj",
       "projectName": "FirstAppXamarin.iOS",
-      "projectPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.iOS\\FirstAppXamarin.iOS.csproj",
+      "projectPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.iOS\\FirstAppXamarin.iOS.csproj",
       "packagesPath": "C:\\Users\\calfa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.iOS\\obj\\",
+      "outputPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.csproj": {
-              "projectPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.csproj"
+            "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.csproj": {
+              "projectPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.csproj"
             }
           }
         }
@@ -1291,14 +1291,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.7.0, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUK//Ea9ePrnkg4BCH4jwKSosabn5+RvYsW0BPSp6Rw0rrV5VwMIxtQlK9f9oBzceheYrYxpox0JiMX12B35Fw==",
+  "dgSpecHash": "VtDjUFgiRh0A7IDzzkTBInt2epOswBdoyi01mhFhJMsGmJTMifOWfFmwgSB/YWcyHL++qS/2wd79y8oD0uYDoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\BlankApp1\\BlankApp1\\BlankApp1.Android\\BlankApp1.Android.csproj",
+  "projectFilePath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\BlankApp1\\BlankApp1\\BlankApp1.Android\\BlankApp1.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\calfa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\calfa\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

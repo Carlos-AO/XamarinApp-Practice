@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\BlankApp1\\BlankApp1\\BlankApp1.Android\\BlankApp1.Android.csproj",
+      "projectUniqueName": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\BlankApp1\\BlankApp1\\BlankApp1.Android\\BlankApp1.Android.csproj",
       "projectName": "BlankApp1.Android",
-      "projectPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\BlankApp1\\BlankApp1\\BlankApp1.Android\\BlankApp1.Android.csproj",
+      "projectPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\BlankApp1\\BlankApp1\\BlankApp1.Android\\BlankApp1.Android.csproj",
       "packagesPath": "C:\\Users\\calfa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\BlankApp1\\BlankApp1\\BlankApp1.Android\\obj\\",
+      "outputPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\BlankApp1\\BlankApp1\\BlankApp1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\BlankApp1\\BlankApp1\\BlankApp1\\BlankApp1.csproj": {
-              "projectPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\BlankApp1\\BlankApp1\\BlankApp1\\BlankApp1.csproj"
+            "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\BlankApp1\\BlankApp1\\BlankApp1\\BlankApp1.csproj": {
+              "projectPath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\BlankApp1\\BlankApp1\\BlankApp1\\BlankApp1.csproj"
             }
           }
         }
