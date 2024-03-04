@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sMf7mHNHjvjZhZR2ZEU8RyyUALB6srLHkrQFh5w9r8rGnurquwE98aYvW8AsuTrA/lQkIzUgReuCMqs3lPWGLQ==",
+  "dgSpecHash": "k4FEpUwmITaMKYPugMeZ2oQ1dLmXRbFpS3EXkEu8s6brdz9WmmVoLt83rGysrRPDrJJN9XgqUt7loPKo6PW2+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.iOS\\FirstAppXamarin.iOS.csproj",
+  "projectFilePath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.iOS\\FirstAppXamarin.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\calfa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\calfa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

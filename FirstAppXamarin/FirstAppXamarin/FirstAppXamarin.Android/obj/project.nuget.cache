@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGC8ilwh0SyiV+tzMkmC0Kk5HTNHgFZ+zmeYI47J2fH52hQL+JuZbpAg44K7dCrl1if4uQMKfdDOARdA4q0ktw==",
+  "dgSpecHash": "SWh/Vpo4O1KBQXlTQIMS9GSlSh3r+l190nd8XQdy1Y6UEcoiIutDafj8FnThUsaOCHRvIxW4uTQTOZxHP9RBTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.Android\\FirstAppXamarin.Android.csproj",
+  "projectFilePath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\FirstAppXamarin\\FirstAppXamarin\\FirstAppXamarin.Android\\FirstAppXamarin.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\calfa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\calfa\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

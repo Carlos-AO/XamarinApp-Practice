@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3LiqnLqApmp6BW/KLgpdjJ0b/o0s2yct6YEKkri6aJoVwi0LcsU9jx/JfHR0p24c3RU3aWZk9gL+MuHWYM+dZQ==",
+  "dgSpecHash": "A3quzau7VpE1JjLxmXm3mhHtPIY0uMpe+wUPmi2bSV6uCqe1MxS6tHeq/mFUTXnbTjdNS/uOPFg0Extebn24fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp\\BlankApp1\\BlankApp1\\BlankApp1.iOS\\BlankApp1.iOS.csproj",
+  "projectFilePath": "C:\\Users\\calfa\\Documents\\GitHub\\XamarinApp-Practice\\BlankApp1\\BlankApp1\\BlankApp1.iOS\\BlankApp1.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\calfa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\calfa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
