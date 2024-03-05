@@ -2,6 +2,8 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Windows.Input;
+using Xamarin.Forms;
 
 namespace BlankApp1.ViewModel
 {
@@ -17,19 +19,20 @@ namespace BlankApp1.ViewModel
         { 
             get { return _welcomeText; } 
             set { _welcomeText = value; } 
-        }    
+        }
 
+        public ICommand CountCommand => new Command (OnCount);
 
+        public void OnCount()
+        {
+            var x = 0;
+            while (x < 100)
+            {
+                x++;
+                Console.WriteLine(x.ToString());
+            }
+            
+        }
         
-
-        /*
-        private string _welcomeText;
-        public string WelcomeText
-        { 
-            get => _welcomeText;
-            set => SetValue(ref _welcomeText, value); 
-        }*/
-
-
     }
 }

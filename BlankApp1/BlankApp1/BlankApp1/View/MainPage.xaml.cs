@@ -16,5 +16,10 @@ namespace BlankApp1.View
             BindingContext = new MainPageViewModel ();
             InitializeComponent();
         }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
