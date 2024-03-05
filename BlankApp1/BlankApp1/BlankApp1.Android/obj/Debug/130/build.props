@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638439487518686122
+_nugetassetstimestamp=638451580165292504
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\calfa\documents\github\xamarinapp\blankapp1\blankapp1\blankapp1.android\blankapp1.android.csproj
+projectfullpath=c:\users\calfa\documents\github\xamarinapp-practice\blankapp1\blankapp1\blankapp1.android\blankapp1.android.csproj
