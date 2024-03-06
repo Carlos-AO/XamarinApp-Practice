@@ -48,6 +48,10 @@ C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXama
 C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\Views\Cat.xaml.g.cs
+C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\Views\Dog.xaml.g.cs
+C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\Views\Gorilla.xaml.g.cs
+C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\Views\GorillaDetails.xaml.g.cs
 C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
 C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
 C:\Users\calfa\Documents\GitHub\XamarinApp-Practice\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
